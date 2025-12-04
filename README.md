@@ -14,6 +14,4 @@
 </div>
 
 ### 📫Contacts:
-- E-mail: victormsouza@protonmail.com
 - Linkedin: https://www.linkedin.com/in/victormagalhaesdesouza/
-- Behance: https://www.behance.net/victormsouza
